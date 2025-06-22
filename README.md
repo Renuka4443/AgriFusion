@@ -78,3 +78,16 @@ AgriFusion consists of **three integrated modules**:
 - Mansee Dakhole 
 - Minakshi Rokade  
 - Poornima Mendhekar
+
+## DASHBOARDS
+![WhatsApp Image 2025-06-22 at 20 13 44_aee3cf11](https://github.com/user-attachments/assets/65e18e96-b5ba-43b5-aac2-13b51168c9d9)
+
+![PREDICTION](https://github.com/user-attachments/assets/d04f6c00-b894-419c-ac1a-dd541a12c1b6)
+
+![FERTILIZER RECOMMENDATION](https://github.com/user-attachments/assets/d6ab7eaf-8134-4cac-9748-04751cf2b4fc)
+
+
+## DEMO
+https://github.com/user-attachments/assets/77fcb989-f1c0-4e18-b81c-babfff7ae3e4
+
+
