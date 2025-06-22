@@ -8,7 +8,7 @@ AgriFusion is an AI-powered agricultural recommendation system that provides **s
 
 ## 🚜 Problem Statement
 
-Modern agriculture faces critical challenges including:
+Traditional agriculture faces critical challenges including:
 - Inaccurate guidance on soil health
 - Unsuitable crop choices
 - Excessive fertilizer usage
